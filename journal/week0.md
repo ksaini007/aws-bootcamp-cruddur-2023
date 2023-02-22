@@ -45,12 +45,28 @@ I successfully installed AWS CLI in Gitpod using the instructions in [Andrew's G
 
 I also updated my Gitpod yml file to run the code to install AWS CLI at every new Gitpod Workspace Launch. The yml file is linked [here](https://github.com/ksaini007/aws-bootcamp-cruddur-2023/blob/main/.gitpod.yml).
 
-Below is an image from Gitpod terminal showing the return of AWS credentials returned using the CLI commands.
+Below is an image from Gitpod terminal showing the return of AWS credential values using CLI commands.
 ![](images/Gitpod_AWS_CLI.png)
 
 #### Setup AWS Budgets
 
 I successfully setup 2 budgets, first using Chirag's video and manually setting it up via GUI in AWS console and second using CLI by following the instructions in [Andrew's Github Journal](https://github.com/omenking/aws-bootcamp-cruddur-2023/blob/week-0/journal/week0.md)
 
+Here's the [link](https://github.com/ksaini007/aws-bootcamp-cruddur-2023/blob/main/aws/json/budget.json) to the json file created to setup Budget using CLI.
+
 Below is an image from AWS Console showing the 2 budgets created.
 ![](images/Budgets.png)
+
+#### Setup AWS Billing Alarm
+
+I successfully setup an AWS Billing Alarm both using GUI in AWS Console and CLI using Gitpod by following the instructions in [Andrew's Github Journal](https://github.com/omenking/aws-bootcamp-cruddur-2023/blob/week-0/journal/week0.md)
+
+Before creating the alarm, I setup SNS Service using the json file found [here](https://github.com/ksaini007/aws-bootcamp-cruddur-2023/blob/main/aws/json/notifications-with-subscribers.json).
+
+Below is an image from AWS Console showing the SNS topic creation in Canada Central Region.
+![](images/SNS.png)
+
+Link for the Billing Alarm json file can be found [here](https://github.com/ksaini007/aws-bootcamp-cruddur-2023/blob/main/aws/json/alarm-config.json).
+
+Below is an image from AWS Console showing the billing alarm
+![](images/Billing_Alarm.png)
