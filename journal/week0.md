@@ -43,6 +43,14 @@ Below is the image for the generated key.
 
 I successfully installed AWS CLI in Gitpod using the instructions in [Andrew's Github Journal](https://github.com/omenking/aws-bootcamp-cruddur-2023/blob/week-0/journal/week0.md)
 
-I also updated my Gitpod yml file to run the code to install AWS CLI at every new Gitpod Workspace Launch. The yml file is linked [here](https://github.com/ksaini007/aws-bootcamp-cruddur-2023/blob/main/.gitpod.yml)
+I also updated my Gitpod yml file to run the code to install AWS CLI at every new Gitpod Workspace Launch. The yml file is linked [here](https://github.com/ksaini007/aws-bootcamp-cruddur-2023/blob/main/.gitpod.yml).
 
+Below is an image from Gitpod terminal showing the return of AWS credentials returned using the CLI commands.
+![](images/Gitpod_AWS_CLI.png)
 
+#### Setup AWS Budgets
+
+I successfully setup 2 budgets, first using Chirag's video and manually setting it up via GUI in AWS console and second using CLI by following the instructions in [Andrew's Github Journal](https://github.com/omenking/aws-bootcamp-cruddur-2023/blob/week-0/journal/week0.md)
+
+Below is an image from AWS Console showing the 2 budgets created.
+![](images/Budgets.png)
