@@ -33,3 +33,8 @@ Below is the image for IAM Access User
 ![](images/IAM.png)
 
 #### Access Key Generation
+
+I successfully generated access keys to allow CLI access to AWS CLI in Gitpod.
+
+Below is the image for the generated key.
+![](
