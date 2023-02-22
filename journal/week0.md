@@ -30,4 +30,6 @@ Below is the image for the Lucid Charts.
 I successfully created an admin username "ksaini..." using the IAM services under my root account in AWS. I also created an alias name "karanmi....." to enable easy login. 
 
 Below is the image for IAM Access User
-![](
+![](images/IAM.png)
+
+#### Access Key Generation
