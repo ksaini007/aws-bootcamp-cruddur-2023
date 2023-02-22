@@ -23,4 +23,11 @@ I drew the logical architectural design in Lucid Charts using the in-built AWS A
 Here is a direct [link](https://lucid.app/lucidchart/7fd2ed3e-9b9c-4f59-8aeb-2d121fc4143d/edit?viewport_loc=-2102%2C-967%2C3055%2C1583%2C0_0&invitationId=inv_300255af-0949-49ee-958e-487900b3ff16) to the Lucid Charts to show proof of work.
 
 Below is the image for the Lucid Charts.
-![]()
+![](images/Screenshot.png)
+
+#### Admin user Creation
+
+I successfully created an admin username "ksaini..." using the IAM services under my root account in AWS. I also created an alias name "karanmi....." to enable easy login. 
+
+Below is the image for IAM Access User
+![](
