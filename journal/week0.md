@@ -37,4 +37,12 @@ Below is the image for IAM Access User
 I successfully generated access keys to allow CLI access to AWS CLI in Gitpod.
 
 Below is the image for the generated key.
-![](
+![](images/AccessKeys.png)
+
+#### AWS CLI Installation in Gitpod
+
+I successfully installed AWS CLI in Gitpod using the instructions in [Andrew's Github Journal](https://github.com/omenking/aws-bootcamp-cruddur-2023/blob/week-0/journal/week0.md)
+
+I also updated my Gitpod yml file to run the code to install AWS CLI at every new Gitpod Workspace Launch. The yml file is linked [here](https://github.com/ksaini007/aws-bootcamp-cruddur-2023/blob/main/.gitpod.yml)
+
+
